@@ -29,12 +29,12 @@ could yield the following HTML:
 </article>
 ```
 
-SUIT CSS helps to partially isolate the CSS used in the `Photo` component's
+CSS helps to partially isolate the CSS used in the `Photo` component's
 implementation. In doing so, it makes styling simpler by reducing the amount of
 styling entanglement between components, and prevents styles from leaking
 outside the component.
 
-(Read about SUIT CSS's [naming conventions](naming-conventions.md).)
+(Read about CSS's [naming conventions](README.md).)
 
 ## Component scope
 
